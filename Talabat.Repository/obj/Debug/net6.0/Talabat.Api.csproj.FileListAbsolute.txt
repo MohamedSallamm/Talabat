@@ -1,0 +1,6 @@
+D:\ASP.NET\Projects\Talabat.Api\Talabat.Api\obj\Debug\net6.0\Talabat.Api.csproj.AssemblyReference.cache
+D:\ASP.NET\Projects\Talabat.Api\Talabat.Api\obj\Debug\net6.0\Talabat.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\Projects\Talabat.Api\Talabat.Api\obj\Debug\net6.0\Talabat.Api.AssemblyInfoInputs.cache
+D:\ASP.NET\Projects\Talabat.Api\Talabat.Api\obj\Debug\net6.0\Talabat.Api.AssemblyInfo.cs
+D:\ASP.NET\Projects\Talabat.Api\Talabat.Api\obj\Debug\net6.0\Talabat.Api.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Projects\Talabat.Api\Talabat.Api\obj\Debug\net6.0\Talabat.Api.MvcApplicationPartsAssemblyInfo.cache
